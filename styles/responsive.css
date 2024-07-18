@@ -1,0 +1,32 @@
+@media (max-width: 1200px) {
+    
+    .header {
+        padding: 20%;
+    }
+
+    .header__menu {
+        justify-content: center;
+    }
+
+    .intro__image {
+        justify-content: center;
+        width: 80%;
+    }
+
+    .intro {
+        flex-direction: column-reverse;
+        padding: 0 5% 10% 5%;
+    }
+
+    .intro__content {
+        width: auto;
+    }
+
+    .intro__content__title {
+        font-size: 2rem;
+    }
+
+    .footer {
+        
+    }
+}
